@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 
+Sealed: true
+Main-Class: main.MainFrame
+Class-Path: /lib/mysql-connector-java-5.1.44-bin.jar /lib/jfreechart-1.0.19-demo.jar
